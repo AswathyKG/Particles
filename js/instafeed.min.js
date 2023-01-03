@@ -6,14 +6,14 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="title" content="XR Horizon">
-        <meta name="description" content="AR/VR for Broadcast, Digital, Events, Conferences, Meetings, Educatin, Tourism, Gaming, Architecture, E Commerce"> 
+        <meta name="description" content="A static website designed for learing purpose by Aswathy"> 
         <meta property="og:image" content="images/og-image.jpg">
         <meta property="og:image:width" content="1500" />
         <meta property="og:image:height" content="1500" />
         <meta property="og:type" content="website">
         <meta property="og:url" content="https://www.xrhorizon.com">
         <meta property="og:title" content="XR Horizon">
-        <meta property="og:description" content="AR/VR for Broadcast, Digital, Events, Conferences, Meetings, Educatin, Tourism, Gaming, Architecture, E Commerce">
+        <meta property="og:description" content="A static website designed for learing purpose by Aswathy">
 
         <link rel="shortcut icon" type="image/x-icon" sizes="16x16 32x32 48x48 64x64" href="images/favicon.svg">
 
